@@ -75,3 +75,4 @@ GROUP BY `exam_id`;
 SELECT `department_id`, COUNT(`name`) AS `total_courses`
 FROM `degrees`
 GROUP BY `department_id`;
+
